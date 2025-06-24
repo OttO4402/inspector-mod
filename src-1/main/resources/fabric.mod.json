@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "inspector",
+  "version": "1.0.0",
+  "name": "Inspector Powder",
+  "environment": "client,server",
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "1.21"
+  },
+  "entrypoints": {
+    "main": ["com.yourname.inspector.InspectorMod"]
+  }
+}

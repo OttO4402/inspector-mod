@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PFP",
+    " S ",
+    " E "
+  ],
+  "key": {
+    "P": { "item": "minecraft:gunpowder" },
+    "F": { "item": "minecraft:feather" },
+    "S": { "item": "minecraft:sugar" },
+    "E": { "item": "minecraft:emerald_block" }
+  },
+  "result": {
+    "item": "inspector:inspector_powder",
+    "count": 1
+  }
+}
